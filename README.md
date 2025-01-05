@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dima
-- 👀 I’m interested in linux desktop programming in C and C++, and electronic engineering
-- 🌱 I’m currently practicing C++ and learning electrical engineering
-- 💞️ I’m looking to collaborate on some linux desktop opensource projects
-- 📫 How to reach me: e-mail: dirsednet.it@gmail.com, telegram: @dimonchik315
+- 👀 I’m interested in software development.
+- 🌱 I’m currently just playin' with GNU/Linux.
+- 💞️ I’m looking for job opportunities as a software developer or DevOps engineer.
+- 📫 How to reach me: e-mail: dirsednet.it@gmail.com,  telegram: @jim_linux
 
 <!---
 dimarogiv/dimarogiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
